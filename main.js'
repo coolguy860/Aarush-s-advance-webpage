@@ -1,0 +1,3 @@
+function spanelem() {
+window.alert("this coolguy860 is mad");
+}
